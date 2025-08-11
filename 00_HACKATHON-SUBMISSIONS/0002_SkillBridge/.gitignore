@@ -1,0 +1,16 @@
+backend/creds/*.json
+
+.env
+
+venv/
+
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*.py[cod]
+*.pyc
+
+backend/backend/creds/google-tts.json
+backend/db.sqlite3
+
